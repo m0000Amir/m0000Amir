@@ -11,7 +11,7 @@
 
 - 👋 Hi, I’m @m0000Amir
 - 👀 I’m interested in discrete optimization, algorithms, python backend and JS frontend.
-- 🌱 I’m currently learning Reac.
+- 🌱 I’m currently learning React.
 - 💞️ I’m looking to collaborate on with someone to make modern UI.
 - 📫 How to reach me 
   - mukhtarov.amir.a@gmail.com
