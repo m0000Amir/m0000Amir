@@ -19,9 +19,9 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 
-- 👋 Hi, I’m @m0000Amir
+- 👋 Hi, I’m [m0000Amir](https://github.com/m0000Amir).
 - 👀 I’m interested in JS frontend.
-- 🌱 I’m currently learning SSR.
+- 🌱 I’m currently work on [Whynot](https://github.com/KomAnw/whynot).
 - 💞️ I’m looking to collaborate on with someone to make modern UI.
 - 📫 How to reach me 
   - mukhtarov.amir.a@gmail.com
