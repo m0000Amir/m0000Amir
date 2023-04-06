@@ -25,7 +25,7 @@
 - 💞️ I’m looking to collaborate on with someone to make modern UI.
 - 📫 How to reach me 
   - mukhtarov.amir.a@gmail.com
-  - [linkedin](https://www.linkedin.com/in/amir-mukhtarov-phd-a23081105/)
+  - [linkedin](https://www.linkedin.com/in/amir-mukhtarov/)
 
 <!---
 m0000Amir/m0000Amir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
