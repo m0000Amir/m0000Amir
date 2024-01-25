@@ -21,7 +21,7 @@
 
 
 - 👋 Hi, I’m [m0000Amir](https://github.com/m0000Amir).
-- 👀 I’m interested in JS frontend.
+- 👀 I’m interested in JS frontend, Fastapi/NestJs backend, and Python machine learning.
 - 🌱 I’m currently work on [Point_return](https://github.com/Point-return/Point-return-frontend).
 - 💞️ I’m looking to collaborate on with someone to make modern UI.
 - 📫 How to reach me 
