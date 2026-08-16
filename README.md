@@ -12,9 +12,9 @@
 
 
 - 👋 Hi, I’m [m0000Amir](https://github.com/m0000Amir), a senior engineer in Huawei.
-- 👀 I’m interested in Python/C++ RnD solutions, ML.
-- 🌱 I’m currently work on [NS-3](https://github.com/m0000Amir/ns-3-dev-git).
-- 💞️ I’m looking to collaborate on with someone to make modern ICT solutions.
+- 👀 I’m interested in Python/C++ RnD solutions, ML, RL
+- 🌱 I’m currently work on Deep Learning, Sparse Approximation, and Tensor Decomposition.
+- 💞️ I'm looking to collaborate with researchers and engineers building modern, efficient neural network architectures.
 - 📫 How to reach me
   
 
